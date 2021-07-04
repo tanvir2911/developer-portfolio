@@ -8,10 +8,11 @@ h1{
 .color-orange{
     color:orange
 }
-section{
+.flexible-dixplay{
     display: flex;
     margin-bottom: 150px;
 }
+
 .half-width{
     width:50%;
     padding: 5%;
