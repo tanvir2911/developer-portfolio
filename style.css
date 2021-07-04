@@ -53,3 +53,16 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+#full-stack-web-developer-experience{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#baby-web-developer-experience{
+    border-left: 10px solid;
+    border-image: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
