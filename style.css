@@ -1,9 +1,6 @@
-h1{
-    color: dimgray;
-    background-color: rgb(17, 1, 36);
+body{
+    font-family: 'Poppins', sans-serif;
 }
-
-p{
-    color: firebrick;
-    background-color: forestgreen;
+h1{
+    font-size: 50px;
 }
